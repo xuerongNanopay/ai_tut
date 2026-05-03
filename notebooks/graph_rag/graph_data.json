@@ -1,0 +1,355 @@
+{
+  "nodes": [
+    {
+      "id": "GENERATIVE AI",
+      "label": "GENERATIVE AI",
+      "type": "CONCEPT",
+      "description": "A technology that creates content, transforming creative and technology-driven industries."
+    },
+    {
+      "id": "NIXON PEABODY",
+      "label": "NIXON PEABODY",
+      "type": "ORGANIZATION",
+      "description": "A law firm that provides legal guidance on AI and intellectual property issues."
+    },
+    {
+      "id": "US COPYRIGHT ACT OF 1976",
+      "label": "US COPYRIGHT ACT OF 1976",
+      "type": "LEGISLATION",
+      "description": "A law that requires a human author for copyright protection."
+    },
+    {
+      "id": "US PATENT AND TRADEMARK OFFICE",
+      "label": "US PATENT AND TRADEMARK OFFICE",
+      "type": "GOVERNMENT",
+      "description": "A government agency that grants patents and trademarks, requiring human inventorship."
+    },
+    {
+      "id": "DABUS",
+      "label": "DABUS",
+      "type": "LEGAL_CASE",
+      "description": "A legal case concerning the recognition of AI as an inventor on patent applications."
+    },
+    {
+      "id": "BEIJING INTERNET COURT",
+      "label": "BEIJING INTERNET COURT",
+      "type": "GOVERNMENT",
+      "description": "A court in China that recognized copyright protection for AI-generated images with human effort."
+    },
+    {
+      "id": "EU AI ACT",
+      "label": "EU AI ACT",
+      "type": "LEGISLATION",
+      "description": "A legislative act by the European Union aimed at regulating AI and ensuring transparency."
+    },
+    {
+      "id": "WORLD INTELLECTUAL PROPERTY ORGANIZATION",
+      "label": "WORLD INTELLECTUAL PROPERTY ORGANIZATION",
+      "type": "ORGANIZATION",
+      "description": "An international organization that promotes the protection of intellectual property worldwide."
+    },
+    {
+      "id": "GENERATIVE AI COPYRIGHT DISCLOSURE ACT OF 2024",
+      "label": "GENERATIVE AI COPYRIGHT DISCLOSURE ACT OF 2024",
+      "type": "LEGISLATION",
+      "description": "A proposed law requiring AI developers to disclose datasets used for training."
+    },
+    {
+      "id": "US COPYRIGHT OFFICE",
+      "label": "US COPYRIGHT OFFICE",
+      "type": "GOVERNMENT",
+      "description": "The agency responsible for copyright registration and policy guidance."
+    },
+    {
+      "id": "AI SYSTEM",
+      "label": "AI SYSTEM",
+      "type": "AI_SYSTEM",
+      "description": "A system that uses artificial intelligence to generate content."
+    },
+    {
+      "id": "ARTIFICIAL INTELLIGENCE",
+      "label": "ARTIFICIAL INTELLIGENCE",
+      "type": "CONCEPT",
+      "description": "A technology that simulates human intelligence processes by machines, especially computer systems."
+    },
+    {
+      "id": "COPYRIGHT INFRASTRUCTURE",
+      "label": "COPYRIGHT INFRASTRUCTURE",
+      "type": "CONCEPT",
+      "description": "The systems and processes that support the implementation of copyright law."
+    },
+    {
+      "id": "GENAI",
+      "label": "GENAI",
+      "type": "AI_SYSTEM",
+      "description": "Generative AI, a type of AI that can create new content such as images, music, and text."
+    },
+    {
+      "id": "TRAINING DATA",
+      "label": "TRAINING DATA",
+      "type": "CONCEPT",
+      "description": "Data used to train AI models, crucial for their performance and reliability."
+    },
+    {
+      "id": "AI TOOLS",
+      "label": "AI TOOLS",
+      "type": "AI_SYSTEM",
+      "description": "Software applications that utilize artificial intelligence to perform tasks."
+    },
+    {
+      "id": "OPT-OUT MECHANISMS",
+      "label": "OPT-OUT MECHANISMS",
+      "type": "LEGISLATION",
+      "description": "Regulatory measures that allow individuals to exclude themselves from certain data uses."
+    },
+    {
+      "id": "TRANSPARENCY REQUIREMENTS",
+      "label": "TRANSPARENCY REQUIREMENTS",
+      "type": "LEGISLATION",
+      "description": "Regulations that mandate clear disclosure of information regarding data usage."
+    },
+    {
+      "id": "DEEPFAKES",
+      "label": "DEEPFAKES",
+      "type": "CONCEPT",
+      "description": "AI-generated synthetic media that can manipulate images and sounds to create realistic but fake content."
+    },
+    {
+      "id": "INTELLECTUAL PROPERTY",
+      "label": "INTELLECTUAL PROPERTY",
+      "type": "CONCEPT",
+      "description": "Legal rights that grant creators control over the use of their creations."
+    },
+    {
+      "id": "COPYRIGHT LAW",
+      "label": "COPYRIGHT LAW",
+      "type": "LEGISLATION",
+      "description": "The body of law that governs the protection of original works of authorship."
+    },
+    {
+      "id": "AI INNOVATION",
+      "label": "AI INNOVATION",
+      "type": "CONCEPT",
+      "description": "The development and application of new AI technologies and methodologies."
+    },
+    {
+      "id": "AI INVENTIONS",
+      "label": "AI INVENTIONS",
+      "type": "CONCEPT",
+      "description": "Innovations that are created using artificial intelligence technologies."
+    },
+    {
+      "id": "IP OFFICES",
+      "label": "IP OFFICES",
+      "type": "ORGANIZATION",
+      "description": "Government agencies responsible for the administration of intellectual property rights."
+    },
+    {
+      "id": "MEMBER STATES",
+      "label": "MEMBER STATES",
+      "type": "GOVERNMENT",
+      "description": "Countries that are part of the World Intellectual Property Organization."
+    },
+    {
+      "id": "POLICYMAKERS",
+      "label": "POLICYMAKERS",
+      "type": "PERSON",
+      "description": "Individuals responsible for creating policies related to AI and intellectual property."
+    },
+    {
+      "id": "CREATIVE INDUSTRIES",
+      "label": "CREATIVE INDUSTRIES",
+      "type": "ORGANIZATION",
+      "description": "Sectors that focus on the creation of original content, such as art, music, and literature."
+    },
+    {
+      "id": "AI CAPACITY",
+      "label": "AI CAPACITY",
+      "type": "CONCEPT",
+      "description": "The ability of a government or organization to develop and implement AI technologies."
+    },
+    {
+      "id": "AI REGULATORY MEASURES",
+      "label": "AI REGULATORY MEASURES",
+      "type": "LEGISLATION",
+      "description": "Laws and guidelines that govern the use and development of artificial intelligence."
+    },
+    {
+      "id": "AI AND IP CLEARING HOUSE",
+      "label": "AI AND IP CLEARING HOUSE",
+      "type": "ORGANIZATION",
+      "description": "A platform for sharing information and resources related to AI and intellectual property."
+    }
+  ],
+  "links": [
+    {
+      "source": "GENERATIVE AI",
+      "target": "NIXON PEABODY",
+      "label": "ADVOCATES_FOR",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI",
+      "target": "US COPYRIGHT ACT OF 1976",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI",
+      "target": "BEIJING INTERNET COURT",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI",
+      "target": "EU AI ACT",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI",
+      "target": "WORLD INTELLECTUAL PROPERTY ORGANIZATION",
+      "label": "REFERENCES",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI",
+      "target": "US COPYRIGHT OFFICE",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "NIXON PEABODY",
+      "target": "US COPYRIGHT OFFICE",
+      "label": "REFERENCES",
+      "description": ""
+    },
+    {
+      "source": "US PATENT AND TRADEMARK OFFICE",
+      "target": "DABUS",
+      "label": "FILED_AGAINST",
+      "description": ""
+    },
+    {
+      "source": "US PATENT AND TRADEMARK OFFICE",
+      "target": "EU AI ACT",
+      "label": "OPPOSES",
+      "description": ""
+    },
+    {
+      "source": "WORLD INTELLECTUAL PROPERTY ORGANIZATION",
+      "target": "COPYRIGHT INFRASTRUCTURE",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "GENERATIVE AI COPYRIGHT DISCLOSURE ACT OF 2024",
+      "target": "US COPYRIGHT OFFICE",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "ARTIFICIAL INTELLIGENCE",
+      "target": "COPYRIGHT LAW",
+      "label": "REFERENCES",
+      "description": ""
+    },
+    {
+      "source": "COPYRIGHT INFRASTRUCTURE",
+      "target": "GENAI",
+      "label": "OPPOSES",
+      "description": ""
+    },
+    {
+      "source": "COPYRIGHT INFRASTRUCTURE",
+      "target": "AI INNOVATION",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "GENAI",
+      "target": "AI TOOLS",
+      "label": "TRAINED_ON",
+      "description": ""
+    },
+    {
+      "source": "TRAINING DATA",
+      "target": "COPYRIGHT LAW",
+      "label": "REFERENCES",
+      "description": ""
+    },
+    {
+      "source": "AI TOOLS",
+      "target": "CREATIVE INDUSTRIES",
+      "label": "PART_OF",
+      "description": ""
+    },
+    {
+      "source": "AI TOOLS",
+      "target": "COPYRIGHT LAW",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "OPT-OUT MECHANISMS",
+      "target": "TRANSPARENCY REQUIREMENTS",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "DEEPFAKES",
+      "target": "INTELLECTUAL PROPERTY",
+      "label": "OPPOSES",
+      "description": ""
+    },
+    {
+      "source": "COPYRIGHT LAW",
+      "target": "AI INNOVATION",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "COPYRIGHT LAW",
+      "target": "CREATIVE INDUSTRIES",
+      "label": "REFERENCES",
+      "description": ""
+    },
+    {
+      "source": "AI INNOVATION",
+      "target": "POLICYMAKERS",
+      "label": "ADVOCATES_FOR",
+      "description": ""
+    },
+    {
+      "source": "AI INVENTIONS",
+      "target": "IP OFFICES",
+      "label": "REGULATES",
+      "description": ""
+    },
+    {
+      "source": "MEMBER STATES",
+      "target": "AI REGULATORY MEASURES",
+      "label": "ADVOCATES_FOR",
+      "description": ""
+    },
+    {
+      "source": "MEMBER STATES",
+      "target": "AI AND IP CLEARING HOUSE",
+      "label": "PART_OF",
+      "description": ""
+    },
+    {
+      "source": "POLICYMAKERS",
+      "target": "AI CAPACITY",
+      "label": "ADVOCATES_FOR",
+      "description": ""
+    },
+    {
+      "source": "AI CAPACITY",
+      "target": "AI REGULATORY MEASURES",
+      "label": "REFERENCES",
+      "description": ""
+    }
+  ],
+  "communities": 8
+}
